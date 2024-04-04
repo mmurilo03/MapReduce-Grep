@@ -1,5 +1,5 @@
 # MapReduce-Grep
-
+## Dupla: Elivelton Pereira e Murilo de Oliveira
 # Como usar:
 ### Abrir o arquivo ``OrderWords.py``, passar um Array com o nome de todos os arquivos e uma string (podendo até mesmo ser um regex) e por fim, executar o arquivo. O programa irá executar como se todos os arquivos passados fossem um só arquivo.
 ![OrderWords](https://github.com/mmurilo03/MapReduce-Grep/assets/105663496/cc449f6f-dd66-46bf-a16b-707aacb6d8b3)
